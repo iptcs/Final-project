@@ -1,5 +1,6 @@
-# Final-project
+# Final-project - The Gauntlet
 Final project for intro to python class
+
 This is a basic turn based boss rush with light RPG elements, in text form
 
 There are no tricks to running the file properly; any Python shell should do fine. Just start it up
