@@ -44,4 +44,4 @@ Hex: 4 mana - A magical blast that deals damage equal to 3 times the casters Kno
 
 Summon Death: 5 mana - Literally summon the grim reaper. It has a 2/3 chance of instantly killing the target, and a 1/3 chance of reducing the caster's wound threshold by 1 for the rest of the fight. This turned out really overpowered, might nerf it later.
 
-Stop Time: 10 mana - Gives you AP equal to twice your max, effectively allowing you to take a fuck ton of turns in a row. Similarly overpowered, but you at least need 10 mana to cast it, which you are not garaunteed to ever have.
+Stop Time: 10 mana - Gives you AP equal to twice your max, effectively allowing you to take a fuck ton of turns in a row. Similarly overpowered, but you at least need 10 mana to cast it, which you are not guaranteed to ever have.
